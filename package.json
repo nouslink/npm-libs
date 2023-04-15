@@ -1,5 +1,5 @@
 {
-  "name": "@maartje/react-bootstrap-dialog",
+  "name": "react-bootstrap-dialog",
   "version": "0.14.1",
   "description": "The modal-dialog React component with React Bootstrap, alternates `window.confirm` and `window.alert`.",
   "repository": {
