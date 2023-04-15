@@ -24,7 +24,6 @@
     "window.confirm"
   ],
   "scripts": {
-    "prepublish": ". ./.scripts/prepublish.sh",
     "test": "yarn run lint",
     "storybook": "start-storybook -p 6006",
     "deploy-storybook": "storybook-to-ghpages",
@@ -36,12 +35,6 @@
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
-    "@kadira/storybook-deployer": "^1.2.0",
-    "@storybook/addon-actions": "^6.4.19",
-    "@storybook/addon-info": "^3.0.0",
-    "@storybook/addon-links": "^5.1.9",
-    "@storybook/addons": "^5.1.9",
-    "@storybook/react": "^6.1.21",
     "@types/react": "^17.0.2",
     "@types/storybook__react": "^4.0.2",
     "@typescript-eslint/eslint-plugin": "^5.16.0",
