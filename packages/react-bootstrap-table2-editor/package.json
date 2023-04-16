@@ -1,6 +1,6 @@
 {
-  "name": "@srajeshs/react-bootstrap-table2-editor",
-  "version": "2.0.0",
+  "name": "react-bootstrap-table2-editor",
+  "version": "2.0.1",
   "description": "it's the editor addon for react-bootstrap-table2",
   "main": "./lib/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/srajeshs/react-bootstrap-table2.git"
+    "url": "git@github.com:SujiJoe/npm-libs.git#react-bootstrap-table"
   },
   "keywords": [
     "react",
@@ -37,9 +37,9 @@
     "react-dom": "^16.0.0-0 || ^17.0.0-0 || ^18.0.0-0"
   },
   "bugs": {
-    "url": "https://github.com/srajeshs/react-bootstrap-table2/issues"
+    "url": "https://github.com/SujiJoe/react-bootstrap-table2/issues"
   },
-  "homepage": "https://github.com/srajeshs/react-bootstrap-table2#readme",
+  "homepage": "https://github.com/SujiJoe/react-bootstrap-table2#readme",
   "directories": {
     "test": "test"
   }

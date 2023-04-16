@@ -1,11 +1,11 @@
 {
-  "name": "@srajeshs/react-bootstrap-table2-toolkit",
-  "version": "3.0.0",
+  "name": "react-bootstrap-table2-toolkit",
+  "version": "3.0.1",
   "description": "The toolkit for react-bootstrap-table2",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/srajeshs/react-bootstrap-table2.git"
+    "url": "git@github.com:SujiJoe/npm-libs.git#react-bootstrap-table"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -40,7 +40,7 @@
     "file-saver": "2.0.2"
   },
   "bugs": {
-    "url": "https://github.com/srajeshs/react-bootstrap-table2/issues"
+    "url": "https://github.com/SujiJoe/react-bootstrap-table2/issues"
   },
-  "homepage": "https://github.com/srajeshs/react-bootstrap-table2#readme"
+  "homepage": "https://github.com/SujiJoe/react-bootstrap-table2#readme"
 }
