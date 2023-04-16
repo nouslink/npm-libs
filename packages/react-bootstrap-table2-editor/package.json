@@ -1,0 +1,46 @@
+{
+  "name": "@srajeshs/react-bootstrap-table2-editor",
+  "version": "1.5.0",
+  "description": "it's the editor addon for react-bootstrap-table2",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srajeshs/react-bootstrap-table2.git"
+  },
+  "keywords": [
+    "react",
+    "bootstrap",
+    "table",
+    "grid",
+    "react-bootstrap-table-addons",
+    "react-component"
+  ],
+  "files": [
+    "lib/",
+    "dist/"
+  ],
+  "tags": [
+    "react"
+  ],
+  "author": "AllenFang",
+  "contributors": [
+    "Allen Fang <ayu780129@hotmail.com> (https://github.com/AllenFang)",
+    "Chun-MingChen <nick830314@gmail.com> (https://github.com/Chun-MingChen)"
+  ],
+  "peerDependencies": {
+    "prop-types": "^15.0.0",
+    "react": "^16.0.0-0 || ^17.0.0-0 || ^18.0.0-0",
+    "react-dom": "^16.0.0-0 || ^17.0.0-0 || ^18.0.0-0"
+  },
+  "bugs": {
+    "url": "https://github.com/srajeshs/react-bootstrap-table2/issues"
+  },
+  "homepage": "https://github.com/srajeshs/react-bootstrap-table2#readme",
+  "directories": {
+    "test": "test"
+  }
+}
