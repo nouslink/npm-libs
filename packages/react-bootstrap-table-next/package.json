@@ -1,0 +1,58 @@
+{
+  "name": "@srajeshs/react-bootstrap-table-next",
+  "version": "4.2.2",
+  "description": "Next generation of react-bootstrap-table",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srajeshs/react-bootstrap-table2.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "bootstrap",
+    "table",
+    "grid",
+    "react-component"
+  ],
+  "files": [
+    "lib/",
+    "dist/"
+  ],
+  "tags": [
+    "react"
+  ],
+  "author": "AllenFang",
+  "contributors": [
+    "Allen Fang <ayu780129@hotmail.com> (https://github.com/AllenFang)",
+    "Chun-MingChen <nick830314@gmail.com> (https://github.com/Chun-MingChen)"
+  ],
+  "dependencies": {
+    "@babel/preset-react": "^7.18.6",
+    "classnames": "^2.2.5",
+    "react-transition-group": "^4.2.0",
+    "underscore": "1.9.1"
+  },
+  "peerDependencies": {
+    "classnames": "^2.2.5",
+    "prop-types": "^15.0.0",
+    "react": "^16.0.0-0 || ^17.0.0-0 || ^18.0.0-0",
+    "react-dom": "^16.0.0-0 || ^17.0.0-0 || ^18.0.0-0"
+  },
+  "bugs": {
+    "url": "https://github.com/srajeshs/react-bootstrap-table2/issues"
+  },
+  "homepage": "https://github.com/srajeshs/react-bootstrap-table2#readme",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx babel src --out-dir dist"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.5",
+    "@babel/preset-env": "^7.20.2"
+  }
+}
