@@ -1,6 +1,6 @@
 {
   "name": "@srajeshs/react-bootstrap-table2-toolkit",
-  "version": "2.2.0",
+  "version": "3.0.0",
   "description": "The toolkit for react-bootstrap-table2",
   "main": "./lib/index.js",
   "repository": {
