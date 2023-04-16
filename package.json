@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-bootstrap-table-next.git"
+    "url": "git@github.com:SujiJoe/npm-libs.git#react-bootstrap-table"
   },
   "author": "AllenFang",
   "contributors": [
